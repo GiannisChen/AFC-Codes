@@ -4,15 +4,17 @@
 1. Update compression algorithms.
 
 ## Introduction
-Codes for my paper AFC, not available right now. I will complete the update of the codes for this repository before October 8, 2023, which will include the following sections:
+Codes for my paper AFC, algorithms is available right now, including the following sections:
 1. Implementation of AFC;
 2. Implementation of Chimp;
 3. Implementation of Gorilla (double-percision floating);
 4. Implementation of FPC;
 
-All of the codes will be done in pure Go.
+All of the codes are in pure Go.
 
-Coming soon...
-
-
-2023-07-22 14:31:25
+## Datasets
+|name|url|
+|:---:|:---:|
+|AMMMO|https://github.com/JonyYu/ATimeSeriesDataset|
+|AMPds2|https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4|
+|BaIoT|http://archive.ics.uci.edu/dataset/442/detection+of+iot+botnet+attacks+n+baiot|
