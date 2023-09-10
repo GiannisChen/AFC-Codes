@@ -3,6 +3,7 @@
 ## CHANGELOG 2023-09-06
 1. Update compression algorithms.
 
+## Introduction
 Codes for my paper AFC, not available right now. I will complete the update of the codes for this repository before October 8, 2023, which will include the following sections:
 1. Implementation of AFC;
 2. Implementation of Chimp;
